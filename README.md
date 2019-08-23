@@ -10,3 +10,4 @@ Here's a sweet online game to learn and practie git-ting: [https://learngitbranc
 
   - _file:///home/alex/Documents/PyMotW_pullrequests/mounting_cluster_filesystem.md_ : A handy alias to mount blaustein/JURECA to $HOME/remote.
   - _install_python_packages.sh_ : Script to setup Python for numerical work: create a `compute` virtual environment and install Jupyter, Spyder, numpy, etc.
+  - _terminal_insults.md_ : A nice Easter Egg in Linux
