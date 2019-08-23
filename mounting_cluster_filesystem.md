@@ -12,3 +12,8 @@ To unmount any of the above:
 ```
 alias sshfs-unmount="fusermount -u $HOME/remote"
 ```
+
+# Causing conflicts
+```
+alias emacs="vim"
+```
