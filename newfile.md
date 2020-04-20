@@ -4,3 +4,6 @@ This is some random text.
 ## Smaller title
 ### Even smaller title
 #### Yet another small title
+
+* list
+* list
